@@ -114,3 +114,11 @@ I would strongly recommended a targeted fine‑tuning and the dataset should inc
 
 ## Intended Use Case
 This dataset is intended for evaluating tabular reasoning in small frontier models, red‑teaming and robustness analysis, fine‑tuning experiments on structured data, research on multimodal or mixed‑modality LLM capabilities. Note that, it is not intended for production use or safety‑critical applications.
+
+## Visit My Hugging Face:
+
+**Datasets**: https://huggingface.co/datasets/olalytics/qwen-tabular-data-blindspots
+
+**Email**: Larrysman2004@yahoo.com
+
+**HuggingFace Username**: olalytics
